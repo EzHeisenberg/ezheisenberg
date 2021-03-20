@@ -9,7 +9,7 @@
 |[UserConnexionSwiftUI](https://github.com/EzHeisenberg/UserConnexionSwiftUI)|Login / register form with firebase 📱 🔥|Swift 5|
 |[AlertSwiftUI](https://github.com/EzHeisenberg/AlertSwiftUI)|Displaying an alert 📱 🚨|Swift 5|
 |[TextFieldSwiftUI](https://github.com/EzHeisenberg/TextFieldSwiftUI)|Testing of input fields 📱|Swift 5|
-|[PinkyBattery](https://github.com/EzHeisenberg/PinkyBattery)|Créer un tweak pour modifier la batterie de l’iphone 🔋 🛠|MakeFile Obj-c|
+|[PinkyBattery](https://github.com/EzHeisenberg/PinkyBattery)|Create a tweak to modify the iphone battery 🔋 🛠|MakeFile Obj-c|
 
 ****
 
